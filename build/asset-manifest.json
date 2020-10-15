@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ee32648d.chunk.css",
+    "main.js": "/static/js/main.f088aa9b.chunk.js",
+    "main.js.map": "/static/js/main.f088aa9b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8e0ddce2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8e0ddce2.js.map",
+    "static/js/2.ec87fee1.chunk.js": "/static/js/2.ec87fee1.chunk.js",
+    "static/js/2.ec87fee1.chunk.js.map": "/static/js/2.ec87fee1.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.66396c22a758e07867c6608d5b310a91.js": "/precache-manifest.66396c22a758e07867c6608d5b310a91.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.ee32648d.chunk.css.map": "/static/css/main.ee32648d.chunk.css.map",
+    "static/js/2.ec87fee1.chunk.js.LICENSE.txt": "/static/js/2.ec87fee1.chunk.js.LICENSE.txt",
+    "static/media/concert2019.jpg": "/static/media/concert2019.51c33836.jpg",
+    "static/media/fdmp_logo_noback.png": "/static/media/fdmp_logo_noback.644a47b1.png",
+    "static/media/pantostein.jpg": "/static/media/pantostein.e5a7328d.jpg",
+    "static/media/pirates.png": "/static/media/pirates.33354d3a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e0ddce2.js",
+    "static/js/2.ec87fee1.chunk.js",
+    "static/css/main.ee32648d.chunk.css",
+    "static/js/main.f088aa9b.chunk.js"
+  ]
+}
